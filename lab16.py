@@ -1,3 +1,7 @@
+#STUDENTS: Jason Pettit, Marcus Gonzalez
+#CST205-40_SP19
+#Module 7 Lab 16
+
 import urllib
 import os
 
